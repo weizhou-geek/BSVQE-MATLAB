@@ -1,6 +1,8 @@
 # BSVQE-MATLAB
 
-Thanks for your attention. In this repo, we provide the codes for the paper [Blind Stereoscopic Video Quality Assessment: From Depth Perception to Overall Experience].
+Thanks for your attention.
+
+In this repo, we provide the codes for the paper [Blind Stereoscopic Video Quality Assessment: From Depth Perception to Overall Experience].
 
 ## Citation
 You may cite it in your paper. Thanks a lot.
